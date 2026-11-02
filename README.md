@@ -25,9 +25,7 @@
 
 ## 01 / PROFILE
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/profile.png"
-     alt="Profile Image"
-     width="300">
+<img src="./profile.jpeg" alt="Zeyad Sheeha" width="300" />
 I'm a **Frontend Developer with 3+ years of experience**, specializing in Angular and TypeScript.
 
 I focus on building maintainable frontend architectures, reusable components, responsive interfaces, and seamless API integrations.
