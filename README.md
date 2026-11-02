@@ -25,16 +25,61 @@
 
 ## 01 / PROFILE
 
-<img src="./profile.jpeg" alt="Zeyad Sheeha" width="300" />
-I'm a **Frontend Developer with 3+ years of experience**, specializing in Angular and TypeScript.
-
-I focus on building maintainable frontend architectures, reusable components, responsive interfaces, and seamless API integrations.
-
-I also bring a UI/UX design perspective into development — combining technical implementation with thoughtful user experiences.
-
-<br clear="right"/>
 
 ---
+
+<table width="100%" border="0">
+<tr>
+<td width="65%" valign="middle">
+
+<h2>01 / PROFILE</h2>
+
+<h1>HEY, I'M ZEYAD.</h1>
+
+<h3>Frontend Engineer · Angular Specialist</h3>
+
+<p>
+I'm a Frontend Developer with <b>3+ years of experience</b>,
+specializing in Angular and TypeScript.
+</p>
+
+<p>
+I build scalable frontend applications, develop reusable
+components, integrate REST APIs, and focus on performance
+and maintainable architecture.
+</p>
+
+<p>
+With a background in UI/UX design, I care about the details
+that make digital products both functional and intuitive.
+</p>
+
+<br/>
+
+<a href="https://my-personal-protfoiio-t45z.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+src="https://raw.githubusercontent.com/Ziad-Sheeha/Ziad-Sheeha/main/profile.jpeg"
+width="260"
+alt="Zeyad Sheeha"
+/>
+
+<br/><br/>
+
+<sub>CAIRO, EGYPT · FRONTEND DEVELOPMENT</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ## 02 / TECHNICAL ARSENAL
 
