@@ -25,8 +25,9 @@
 
 ## 01 / PROFILE
 
-<img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Sheeha&layout=donut&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" />
-
+<img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/profile.png"
+     alt="Profile Image"
+     width="300">
 I'm a **Frontend Developer with 3+ years of experience**, specializing in Angular and TypeScript.
 
 I focus on building maintainable frontend architectures, reusable components, responsive interfaces, and seamless API integrations.
