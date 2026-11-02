@@ -6,13 +6,13 @@
 <br/>
 
 <a href="https://my-personal-protfoiio-t45z.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/zeyad-sheeha">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sheehaph@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -23,29 +23,29 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Sheeha&layout=donut&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" />
+## 01 / PROFILE
 
-### `01` — WHO I AM
+<img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Sheeha&layout=donut&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" />
 
-I'm a Frontend Developer with **3+ years of experience**, specializing in Angular and TypeScript.
+I'm a **Frontend Developer with 3+ years of experience**, specializing in Angular and TypeScript.
 
 I focus on building maintainable frontend architectures, reusable components, responsive interfaces, and seamless API integrations.
 
-I also bring a UI/UX design perspective into development — because good software should work well and feel right.
+I also bring a UI/UX design perspective into development — combining technical implementation with thoughtful user experiences.
 
 <br clear="right"/>
 
 ---
 
-### `02` — TECH STACK
+## 02 / TECHNICAL ARSENAL
 
 <div align="center">
 
-**CORE TECHNOLOGIES**
+### FRONTEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,rxjs,html,css,sass,bootstrap&theme=dark" />
 
-**TOOLS & ADDITIONAL KNOWLEDGE**
+### TOOLS & ECOSYSTEM
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,react,nodejs,express,nestjs&theme=dark" />
 
@@ -53,54 +53,182 @@ I also bring a UI/UX design perspective into development — because good softwa
 
 ---
 
-### `03` — WHAT I'VE BUILT
+## 03 / SELECTED WORK
+
+<div align="center">
+
+<sub>A SELECTION OF APPLICATIONS & DIGITAL PRODUCTS</sub>
+
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### ◈ Learning Management System
+<h3>01 &nbsp; / &nbsp; Learning Management System</h3>
 
-Educational platform with structured learning workflows and content management.
+<img src="https://img.shields.io/badge/EDUCATION-312E81?style=flat-square&labelColor=18181B" />
+
+A structured learning management solution focused on organizing educational content and learning workflows.
+
+**FOCUS AREAS**
+
+- Learning content organization
+- Educational workflows
+- Platform structure
 
 </td>
 <td width="50%" valign="top">
 
-#### ◈ E-Learning Platform
+<h3>02 &nbsp; / &nbsp; E-Learning Platform</h3>
 
-Web-based learning experience with dedicated educational features.
+<img src="https://img.shields.io/badge/ONLINE%20LEARNING-1E3A8A?style=flat-square&labelColor=18181B" />
+
+A web-based learning experience designed to make online education and course interaction accessible.
+
+**FOCUS AREAS**
+
+- Online learning experience
+- Course-based interfaces
+- User interaction
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ◈ Home Care Platform
+<h3>03 &nbsp; / &nbsp; Home Care Platform</h3>
 
-Digital platform supporting home-care services and operations.
+<img src="https://img.shields.io/badge/HEALTHCARE-065F46?style=flat-square&labelColor=18181B" />
+
+A digital platform supporting home-care services through organized service-related workflows.
+
+**FOCUS AREAS**
+
+- Service workflows
+- User-facing interfaces
+- Operational organization
 
 </td>
 <td width="50%" valign="top">
 
-#### ◈ FitClinic
+<h3>04 &nbsp; / &nbsp; FitClinic</h3>
 
-Healthcare-oriented application with clinic-related workflows.
+<img src="https://img.shields.io/badge/CLINIC%20MANAGEMENT-7C2D12?style=flat-square&labelColor=18181B" />
+
+A clinic-oriented application designed around healthcare and fitness-related management workflows.
+
+**FOCUS AREAS**
+
+- Clinic-related workflows
+- Management interfaces
+- Structured user experience
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ◈ HR Management System
+<h3>05 &nbsp; / &nbsp; HR Management System</h3>
 
-Application for organizing employee data and HR processes.
+<img src="https://img.shields.io/badge/ENTERPRISE%20TOOLS-4C1D95?style=flat-square&labelColor=18181B" />
+
+An application focused on organizing employee information and supporting human resources operations.
+
+**FOCUS AREAS**
+
+- Employee management
+- HR processes
+- Administrative interfaces
 
 </td>
 <td width="50%" valign="top">
 
-#### ◈ Job Board Platform
+<h3>06 &nbsp; / &nbsp; Job Board Platform</h3>
 
-Employment platform connecting job seekers with opportunities.
+<img src="https://img.shields.io/badge/RECRUITMENT-164E63?style=flat-square&labelColor=18181B" />
+
+A job platform designed to connect employment opportunities with people looking for their next role.
+
+**FOCUS AREAS**
+
+- Job discovery
+- Employment listings
+- Recruitment workflows
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>PROJECT DESCRIPTIONS ARE HIGH-LEVEL SUMMARIES. REPOSITORY LINKS AND TECHNICAL DETAILS CAN BE ADDED WHEN AVAILABLE.</sub>
+</div>
+
+---
+
+## 04 / PROFESSIONAL EXPERIENCE
+
+<table width="100%">
+<tr>
+<td width="23%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2025--NOW-7C3AED?style=for-the-badge&labelColor=18181B" />
+
+<br/><br/>
+
+**CAIRO**
+
+<sub>EGYPT</sub>
+
+</td>
+<td width="77%" valign="top">
+
+### Angular Developer & UI/UX Designer
+
+**BARMAGLI**  
+<sub>FEBRUARY 2025 — PRESENT</sub>
+
+Building and maintaining frontend experiences with a focus on reusable architecture, performance, and interface quality.
+
+- Developing reusable Angular components and frontend features.
+- Integrating REST APIs and managing application data flows.
+- Improving performance through lazy loading and optimization.
+- Contributing to UI/UX decisions and responsive layouts.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<hr/>
+
+</td>
+</tr>
+<tr>
+<td width="23%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2023--2024-52525B?style=for-the-badge&labelColor=18181B" />
+
+<br/><br/>
+
+**SHEBIN EL-KOM**
+
+<sub>EGYPT</sub>
+
+</td>
+<td width="77%" valign="top">
+
+### Angular Developer
+
+**PEAROGRAM**  
+<sub>FEBRUARY 2023 — APRIL 2024</sub>
+
+Worked on modernizing legacy frontend interfaces and developing structured Angular applications.
+
+- Migrated legacy interfaces from HTML, CSS, Bootstrap, and jQuery to Angular and TypeScript.
+- Built reusable components and structured frontend modules.
+- Improved existing interfaces through debugging and optimization.
+- Collaborated using Git, GitHub, and Agile workflows.
 
 </td>
 </tr>
@@ -108,29 +236,21 @@ Employment platform connecting job seekers with opportunities.
 
 ---
 
-### `04` — EXPERIENCE
+## 05 / EDUCATION
 
-**Angular Developer & UI/UX Designer**  
-`Barmagli` · Cairo, Egypt  
-`Feb 2025 — Present`
+<div align="center">
 
-- Building reusable Angular components and frontend features.
-- Integrating REST APIs and managing application data flows.
-- Improving performance through lazy loading and optimization.
-- Contributing to UI/UX decisions and responsive layouts.
+### BACHELOR OF COMPUTER SCIENCE
 
-**Angular Developer**  
-`Pearogram` · Shebin El-Kom, Egypt  
-`Feb 2023 — Apr 2024`
+**Software Engineering**
 
-- Migrated legacy interfaces to Angular and TypeScript.
-- Built reusable components and structured frontend modules.
-- Improved existing interfaces through debugging and optimization.
-- Collaborated using Git, GitHub, and Agile workflows.
+Menoufia University
+
+</div>
 
 ---
 
-### `05` — GITHUB ACTIVITY
+## 06 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -144,25 +264,20 @@ Employment platform connecting job seekers with opportunities.
 
 ---
 
-### `06` — EDUCATION
-
-**B.Sc. Computer Science**  
-Software Engineering · Menoufia University
-
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:09090B&height=100&section=footer" />
 
 ### LET'S BUILD SOMETHING GREAT.
 
-Open to opportunities, collaborations, and interesting engineering challenges.
+**Open to opportunities, collaborations, and interesting engineering challenges.**
 
 <a href="https://my-personal-protfoiio-t45z.vercel.app">PORTFOLIO</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/zeyad-sheeha">LINKEDIN</a> &nbsp; · &nbsp;
 <a href="mailto:sheehaph@gmail.com">GET IN TOUCH</a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:09090B&height=100&section=footer" />
+<sub>DESIGNED & BUILT BY ZEYAD SHEEHA</sub>
 
 </div>
